@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+hr {
+    opacity: .5;
+    margin: 10px 0;
+}
+
+ul {
+    margin-left: 50px;
+}
+
+.skills {
+    font: 18px Arial, Helvetica, sans-serif;
+}
+
+.skills li {
+    margin: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.cursive {
+    font-style: italic;
+}
